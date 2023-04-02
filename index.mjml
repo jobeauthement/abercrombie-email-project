@@ -1,0 +1,232 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0" align="center" />
+      <mj-button font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" />
+      <mj-all font-family="'Garamond Premier Pro Reg', 'EB Garamond', Garamond, Times New Roman, serif" />
+    </mj-attributes>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      span {
+        font-size: 40%;
+        vertical-align: 19px;
+        line-height: 20px;
+      }
+
+      i {
+        font-family: "'Garamond Premier Pro Reg', 'EB Garamond', Garamond, Times New Roman, serif"
+      }
+    </mj-style>
+    <mj-style inline="inline">
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="500px">
+    <mj-section padding="0px 50px" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-text font-family="Helvetica, Garamond, Times New Roman, serif" color="#243746" font-size="9px" line-height="30px">
+          Welcome to myAbercrombie. View on <u>Web Browser</u>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image src="https://i.imgur.com/WH6I8rx.png">
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 0px 10px 0px" color="#243746" font-size="24px" line-height="28px" text-decoration="none">
+          Hi, Jobe
+        </mj-text>
+        <mj-text padding="0px" color="#243746" font-size="18px" line-height="22px">
+          <i>my</i>Abercrombie Status: <i>Member<i>
+        </mj-text>
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.imgur.com/tCp4Jug.jpg">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="25px 0px">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.imgur.com/cciHBeP.gif2">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#283a44">
+        <mj-text padding="25px 0px" font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" color="#ffffff" font-size="16px" font-weight="700" line-height="26px" text-transform="uppercase" letter-spacing="4.2px">
+          it's time for takeoff
+        </mj-text>
+        <mj-text text-decoration="none" padding="25px 0px" font-family="'Garamond Premier Pro Reg', 'EB Garamond, Garamond', Times New Roman, serif" color="#ffffff" font-size="40px" line-height="50px">
+          &#36;10 off your<br>
+          $50+ purchase<span>*</span>
+        </mj-text>
+        <mj-raw>
+          Practice-Text
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#283a44" padding="0px 28px 0px 28px">
+      <!-- <mj-group background-color="#283a44"> -->
+
+      <mj-group>
+        <mj-column>
+          <mj-button inner-padding="2px" font-size="16px" font-weight="700" width="100%" height="55px" border="solid white 1px" border-radius="0px" padding="10px 10px 10px 10px" font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" background-color="#283a44" color="white" text-transform="uppercase" line-height="20px">
+            Shop Men's
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button inner-padding="2px" font-size="16px" font-weight="700" width="100%" height="55px" border="solid white 1px" border-radius="0px" padding="10px 10px 10px 10px" font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" background-color="#283a44" color="white" text-transform="uppercase" line-height="20px">
+            Shop Women's
+          </mj-button>
+        </mj-column>
+      </mj-group>
+      <!-- </mj-group> -->
+    </mj-section>
+    <mj-section background-color="#283a44" padding="0px 28px 55px 28px">
+
+      <mj-group>
+        <mj-column>
+          <mj-button inner-padding="2px" font-size="16px" font-weight="700" width="100%" height="55px" border="solid white 1px" border-radius="0px" padding="10px 10px 10px 10px" font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" background-color="#283a44" color="white" text-transform="lowercase" line-height="20px">
+            Shop boys
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button inner-padding="2px" font-size="16px" font-weight="700" width="100%" height="55px" border="solid white 1px" border-radius="0px" padding="10px 10px 10px 10px" font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" background-color="#283a44" color="white" text-transform="lowercase" line-height="20px">
+            Shop girls
+          </mj-button>
+        </mj-column>
+      </mj-group>
+
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-spacer height="25px" />
+        <mj-text padding="0px" font-family="'Trade Gothic LT W05 Roman', 'Libre Franklin', Arial, sans-serif" color="#243746" font-size="18px" line-height="26px" letter-spacing="0.3px" font-weight="400">
+          Use code: 9002967455533180
+        </mj-text>
+        <mj-text padding="0px" font-family="'Trade Gothic LT W05 Roman', 'Libre Franklin', Arial, sans-serif" color="#243746" font-size="18px" line-height="26px" letter-spacing="0.3px" font-weight="400">
+          Valid through: 10/10/2022
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column border-bottom="solid #243746 1px" width="372px">
+        <mj-spacer height="48px" />
+        <mj-text padding="0 0px 25px" font-family="'Garamond Premier Pro Reg', 'EB Garamond', Garamond, Times New Roman, serif" color="#243746" font-size="22px" line-height="26px" letter-spacing="0.3px" font-weight="bold">
+          My Account
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column border-bottom="solid #243746 1px" width="372px">
+        <mj-spacer height="48px" />
+        <mj-text padding="0 0px 25px" font-family="'Garamond Premier Pro Reg', 'EB Garamond', Garamond, Times New Roman, serif" color="#243746" font-size="22px" line-height="26px" letter-spacing="0.3px" font-weight="bold">
+          Abercrombie Women's
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column border-bottom="solid #243746 1px" width="372px">
+        <mj-spacer height="48px" />
+        <mj-text padding="0 0px 25px" font-family="'Garamond Premier Pro Reg', 'EB Garamond', Garamond, Times New Roman, serif" color="#243746" font-size="22px" line-height="26px" letter-spacing="0.3px" font-weight="bold">
+          Abercrombie Men's
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column border-bottom="solid #243746 1px" width="372px">
+        <mj-spacer height="48px" />
+        <mj-text padding="0 0px 25px" font-family="'Garamond Premier Pro Reg', 'EB Garamond', Garamond, Times New Roman, serif" color="#243746" font-size="22px" line-height="26px" letter-spacing="0.3px" font-weight="bold">
+          abercrombie kids
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-spacer height="48px" />
+        <mj-text padding="0px" font-family="'Garamond Premier Pro It', 'EB Garamond', Times New Roman, serif" color="#243746" font-size="22px" line-height="26px" letter-spacing="0.3px" font-weight="bold">
+          <i>my</i>Abercrombie Terms
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="45px 0px 0px">
+      <mj-group width="178px">
+        <mj-column>
+          <mj-image padding="0px" src="https://i.imgur.com/qZGwn0A.png" height="28px" width="28px">
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0px" src="https://i.imgur.com/OVzF0Lo.png" height="28px" width="28px">
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0px" src="https://i.imgur.com/6BJ0NYg.png" height="28px" width="28px">
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0px" src="https://i.imgur.com/5rneFWF.png" height="28px" width="28px">
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-spacer height="48px" />
+        <mj-text padding="0px" font-family="'Trade Gothic W05 Bold 2', 'Libre Franklin', Arial, sans-serif" font-weight="700" color="#243746" font-size="12px" line-height="16px" letter-spacing="0.8px">
+          DOWNLOAD THE APP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="13px 0px 0px">
+      <mj-group width="365px">
+        <mj-column>
+          <mj-image padding="0px 13px 0px 0px" src="https://i.imgur.com/vrSJXo3.png" height="38px" width="170px">
+        </mj-column>
+        <mj-column>
+          <mj-image padding="0px 0px 0px 13px" src="https://i.imgur.com/w6awvfc.png" height="38px" width="170px">
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+    <!-- <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#243746" width="372px" />
+      </mj-column>
+    </mj-section> -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-spacer height="25px" />
+        <mj-text padding="5px" font-family="helvetica, sans-serif" color="#243746" font-size="9px" line-height="11px">
+          *In stores & online. Not combinable with Entire Store offers. Exclusions apply. See Details.
+        </mj-text>
+        <mj-text padding="5px" font-family="helvetica, sans-serif" color="#243746" font-size="9px" line-height="11px">
+          To ensure delivery to your inbox, add Abercrombie@e.abercrombie.com to your address book.
+        </mj-text>
+        <mj-text padding="5px" font-family="helvetica, sans-serif" color="#243746" font-size="9px" line-height="11px">
+          Please see our Website Terms of Use and myAbercrombie terms, and to know how we use your personal data, please see our Privacy Policy.
+        </mj-text>
+        <mj-text padding="5px 10px 0px 10px" font-family="helvetica, sans-serif" color="#243746" font-size="9px" line-height="11px">
+          Abercrombie & Fitch - 720 Fifth Avenue - Attn: 8th Floor - New York, NY 10019<br>
+          www.Abercrombie.com
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column padding-top="25px" padding-bottom="10px">
+        <mj-spacer height="100px" />
+        <mj-text padding="0px" font-family="'Trade Gothic LT W05 Roman', 'Libre Franklin', Arial, sans-serif" color="#243746" font-size="16px" line-height="16px" letter-spacing="1px" font-weight="bold">
+          $10 OFF $50
+        </mj-text>
+        <mj-spacer height="25px" />
+        <mj-text padding="0px 0px 10px" font-family="'Trade Gothic LT W05 Roman', 'Libre Franklin', Arial, sans-serif" color="#243746" font-size="18px" line-height="18px" letter-spacing="0.3px" font-weight="400">
+          Barcode: 9002967455533180
+        </mj-text>
+        <mj-image padding="0px" width="235px" height="150px" src="https://i.imgur.com/DnDDSw7.jpg">
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
